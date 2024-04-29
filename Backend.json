@@ -1,39 +1,43 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_586_Athena_Commando_F_PunkDevil"],
+    "itemGrants": ["AthenaCharacter:CID_578_Athena_Commando_F_Fisherman"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_092_Bling"],
     "price": 800
   },
   "daily3": {
-    "itemGrants": ["AthenaCharacter:CID_170_Athena_Commando_F_Luchador"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_412_Athena_Commando_F_Raptor"],
+    "price": 2000
   },
   "daily4": {
-    "itemGrants": ["AthenaGlider:Glider_ID_110_TeriyakiFish"],
-    "price": 800
+    "itemGrants": ["AthenaGlider:Glider_ID_155_Jellyfish"],
+    "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaItemWrap:Wrap_182_NeonAnimal"],
+    "itemGrants": ["AthenaItemWrap:Wrap_077_StormSoldier"],
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_TaiChi"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_TourBus"],
+    "price": 300
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_424_Athena_Commando_M_Vigilante"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_354_Athena_Commando_M_MunitionsExpert"],
+    "price": 800
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_423_Athena_Commando_F_Painter"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_023_Athena_Commando_F"],
+    "price": 1200
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_BasketballV2"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_BigfootWalk"],
+    "price": 200
+  },
+  "featured4": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_233_Birthday2019"],
+    "price": 0
   }
 }
